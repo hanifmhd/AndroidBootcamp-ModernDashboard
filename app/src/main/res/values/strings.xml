@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BootcampModernDashboard</string>
+    <string name="work">Work</string>
+    <string name="education">Education</string>
+    <string name="startup">Startup</string>
+    <string name="medical">Medical</string>
+    <string name="setting">Settings</string>
+    <string name="travel">Travel</string>
+    <string name="fitness">Fitness</string>
+    <string name="gaming">Gaming</string>
+    <string name="tv_title">Telkomsel</string>
+</resources>
